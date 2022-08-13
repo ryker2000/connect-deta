@@ -1,6 +1,6 @@
 {
   "name": "connect-deta",
-  "description": "Deta.sh Base session store for express-session",
+  "description": "Deta Base session store for express",
   "version": "1.0.0",
   "author": "Ryker <hello@ryker2000.com> (https://ryker2000.com)",
   "main": "./index.js",
