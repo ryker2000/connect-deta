@@ -1,7 +1,7 @@
 {
   "name": "connect-deta",
   "description": "Deta Base session store for express",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "author": "Ryker <hello@ryker2000.com> (https://ryker2000.com)",
   "main": "./index.js",
   "scripts": {
