@@ -1,6 +1,6 @@
 # Connect Deta
 
-Use [Deta](https://deta.sh) Base to store cookie sessions, compatiable with [Express Session]().
+Use [Deta](https://deta.sh) Base to store cookie sessions, compatiable with [Express Session](https://expressjs.com/en/resources/middleware/session.html).
 
 How to install:
 ```
