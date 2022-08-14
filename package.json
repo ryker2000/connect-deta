@@ -17,5 +17,7 @@
   },
   "engines": {
     "node": "*"
-  }
+  },
+  "license": "MIT",
+  "repository": "ryker2000/connect-deta",
 }
