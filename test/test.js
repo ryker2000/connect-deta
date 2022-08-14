@@ -16,7 +16,7 @@ const options = {
   },
 };
 
-describe("ConnectDynamoDB", function () {
+describe("ConnectDetaBase", function () {
   describe("Constructor", function () {
     it("should take session as argument", function () {
       const DetaBaseStore = require(__dirname + "/../lib/connect-deta.js")(
