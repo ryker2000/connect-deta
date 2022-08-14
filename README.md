@@ -2,6 +2,11 @@
 
 Use [Deta](https://deta.sh) Base to store cookie sessions, compatiable with [Express Session]().
 
+How to install:
+```
+npm install deta express express-session 
+npm install connect-deta
+```
 
 
 How to use:
