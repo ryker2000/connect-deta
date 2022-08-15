@@ -15,7 +15,7 @@ const express = require("express");
 const session = require("express-session");
 const DetaBaseStore = require("connect-deta")(session);
 
-var app = express();
+const app = express();
 
 app.use(
   session({
