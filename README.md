@@ -4,16 +4,16 @@ Use [Deta](https://deta.sh) Base to store cookie sessions, compatiable with [Exp
 
 How to install:
 ```
-npm install deta express express-session 
-npm install connect-deta
+npm install deta express express-session --save
+npm install connect-deta --save
 ```
 
 
 How to use:
 ```javascript
-var express = require("express");
-var session = require("express-session");
-var DetaBaseStore = require("connect-deta")(session);
+const express = require("express");
+const session = require("express-session");
+const DetaBaseStore = require("connect-deta")(session);
 
 var app = express();
 
